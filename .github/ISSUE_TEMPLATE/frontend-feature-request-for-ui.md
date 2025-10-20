@@ -1,6 +1,6 @@
 ---
 name: Front-End Feature Request for UI
-about: 機能追加のリクエスト用テンプレート
+about: 機能追加のリクエスト用テンプレート（フロントエンド用）
 title: ''
 labels: enhancement
 assignees: ''
