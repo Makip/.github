@@ -1,5 +1,5 @@
 ---
-name: Front-End Bug Fix
+name: Bug Fix
 about: 不具合対応依頼
 title: '[BUG]'
 labels: bug
@@ -9,6 +9,10 @@ assignees: ''
 ## 発生している事象
 
 ### 再現方法
+
+## 関連情報
+
+依頼元 URL: 
 
 ## 期待された結果
 
