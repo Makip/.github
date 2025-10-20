@@ -1,5 +1,5 @@
 ---
-name: Front-end feature request
+name: Front-End Feature Request
 about: 仕様変更依頼
 title: '[FEATURE]'
 labels: enhancement

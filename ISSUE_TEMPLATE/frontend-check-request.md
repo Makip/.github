@@ -1,5 +1,5 @@
 ---
-name: Front-end check request
+name: Front-End Check Request
 about: 確認調査依頼
 title: '[CHECK]'
 assignees: ''

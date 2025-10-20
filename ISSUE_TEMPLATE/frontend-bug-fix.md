@@ -1,5 +1,5 @@
 ---
-name: Front-end bug fix
+name: Front-End Bug Fix
 about: 不具合対応依頼
 title: '[BUG]'
 labels: bug
