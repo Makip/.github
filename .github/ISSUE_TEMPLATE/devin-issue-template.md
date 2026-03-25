@@ -1,5 +1,9 @@
-# GitHub Issue → Devin 実装依頼テンプレート
-
+---
+name: Feature Request For Devin
+about: Devin 実装依頼
+title: '[FEATURE]'
+labels: enhancement
+assignees: ''
 ---
 
 ## 対象
@@ -60,7 +64,7 @@
 
 ---
 
-# 記入のコツ
+## 記入のコツ
 
 - **「やること」と「完了条件」は必須**。この2つが明確であれば Devin は動ける
 - **ファイルパスを書く**と Devin の探索時間を大幅に短縮できる
